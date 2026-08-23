@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/tagline.svg" width="820" alt="I prefer to ship things rather than describe them. When I write, it is usually a README. I care about the part after the demo." />
+  <img src="./assets/tagline.svg?v=2" width="820" alt="I prefer to ship things rather than describe them. When I write, it is usually a README. I care about the part after the demo." />
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/rule.svg" width="100%" alt="" />
+  <img src="./assets/rule.svg?v=2" width="100%" alt="" />
 </div>
 
 ## `$ whoami`
