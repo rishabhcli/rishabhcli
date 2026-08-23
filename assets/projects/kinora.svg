@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250" role="img" aria-labelledby="ti de">
+  <title id="ti">Kinora &#8212; BOOKS THAT FILM THEMSELVES</title>
+  <desc id="de">Turn a chapter into accepted film shots without losing the book. Shot gates measure a render before it is allowed in. A failed clip never quietly becomes a placeholder. Built with QWEN, WAN, PYTHON, ALIBABA CLOUD.</desc>
+  <defs><clipPath id="c"><rect x="3" y="3" width="574" height="244" rx="6"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="580" height="250" fill="#FFFEFA"/>
+    <path d="M420 0 H580 V126 Z" fill="#EEFFC0"/>
+    <path d="M470 0 H580 V88 Z" fill="#EEFFC0" opacity="0.75">
+      <animate attributeName="opacity" values="0.75;0.35;0.75" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <text x="556" y="86" text-anchor="end" fill="none" stroke="#11110F" stroke-opacity="0.28" stroke-width="1.4"
+      font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="-4">06</text>
+
+    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <g transform="translate(26 24)">
+        <rect width="206" height="24" rx="4" fill="#11110F"/>
+        <text x="11" y="16" fill="#D8FF45" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="1.1">BOOKS THAT FILM THEMSELVES</text>
+      </g>
+
+      <text x="26" y="98" fill="#11110F" font-size="34" font-weight="800" letter-spacing="-1.1">Kinora</text>
+
+      <text x="26" y="130" fill="#11110F" font-size="14" font-weight="600">Turn a chapter into accepted film shots without losing the book.</text>
+      <text x="26" y="153" fill="#5C5A55" font-size="12.5">Shot gates measure a render before it is allowed in. A failed clip</text>
+      <text x="26" y="171" fill="#5C5A55" font-size="12.5">never quietly becomes a placeholder.</text>
+
+      <text x="26" y="200" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="1.05" opacity="0.72">QWEN / WAN / PYTHON / ALIBABA CLOUD</text>
+
+      <rect x="26" y="212" width="120" height="4" fill="#2864F0">
+        <animate attributeName="width" values="46;120;74;120;46" dur="8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="554" y="220" text-anchor="end" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="1.2">OPEN REPOSITORY &#8599;</text>
+    </g>
+  </g>
+  <rect x="3" y="3" width="574" height="244" rx="6" fill="none" stroke="#11110F" stroke-width="3"/>
+</svg>

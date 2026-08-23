@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="64" viewBox="0 0 880 64" role="img" aria-labelledby="tt td">
+  <title id="tt">How Rishabh works</title>
+  <desc id="td">I prefer to ship things rather than describe them. When I write, it is usually a README. I care about the part after the demo.</desc>
+  <g text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="650">
+    <text x="440" y="40" fill="#11110F" opacity="0">I prefer to ship things rather than describe them.
+      <animate id="l0" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.13;0.8;1" dur="4.2s" begin="0s;l2.end"/>
+      <animate attributeName="y" values="46;40;40;34" keyTimes="0;0.13;0.8;1" dur="4.2s" begin="0s;l2.end"/>
+    </text>
+    <text x="440" y="40" fill="#2864F0" opacity="0">When I write, it is usually a README.
+      <animate id="l1" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.13;0.8;1" dur="4.2s" begin="l0.end"/>
+      <animate attributeName="y" values="46;40;40;34" keyTimes="0;0.13;0.8;1" dur="4.2s" begin="l0.end"/>
+    </text>
+    <text x="440" y="40" fill="#FF5B35" opacity="0">I care about the part after the demo.
+      <animate id="l2" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.13;0.8;1" dur="4.2s" begin="l1.end"/>
+      <animate attributeName="y" values="46;40;40;34" keyTimes="0;0.13;0.8;1" dur="4.2s" begin="l1.end"/>
+    </text>
+  </g>
+</svg>

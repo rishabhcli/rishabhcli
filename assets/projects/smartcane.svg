@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250" role="img" aria-labelledby="ti de">
+  <title id="ti">SmartCane &#8212; 1ST PLACE / ALAMEDA COUNTY SCIENCE FAIR</title>
+  <desc id="de">A ~$70 cane that senses obstacles, catches falls and pages a caregiver. 97.75% distance accuracy in bench trials. 27 of 27 simulated falls detected, zero false positives in 18. Built with ARDUINO, ANDROID, BLE, COSITE 2025 PAPER, PROVISIONAL PATENT.</desc>
+  <defs><clipPath id="c"><rect x="3" y="3" width="574" height="244" rx="6"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="580" height="250" fill="#FFFEFA"/>
+    <path d="M420 0 H580 V126 Z" fill="#FFDDD2"/>
+    <path d="M470 0 H580 V88 Z" fill="#FFDDD2" opacity="0.75">
+      <animate attributeName="opacity" values="0.75;0.35;0.75" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <text x="556" y="86" text-anchor="end" fill="none" stroke="#11110F" stroke-opacity="0.28" stroke-width="1.4"
+      font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="-4">03</text>
+
+    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <g transform="translate(26 24)">
+        <rect width="296" height="24" rx="4" fill="#11110F"/>
+        <text x="11" y="16" fill="#D8FF45" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="1.1">1ST PLACE / ALAMEDA COUNTY SCIENCE FAIR</text>
+      </g>
+
+      <text x="26" y="98" fill="#11110F" font-size="34" font-weight="800" letter-spacing="-1.1">SmartCane</text>
+
+      <text x="26" y="130" fill="#11110F" font-size="14" font-weight="600">A ~$70 cane that senses obstacles, catches falls and pages a caregiver.</text>
+      <text x="26" y="153" fill="#5C5A55" font-size="12.5">97.75% distance accuracy in bench trials. 27 of 27 simulated falls</text>
+      <text x="26" y="171" fill="#5C5A55" font-size="12.5">detected, zero false positives in 18.</text>
+
+      <text x="26" y="200" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="1.05" opacity="0.72">ARDUINO / ANDROID / BLE / COSITE 2025 PAPER / PROVISIONAL PATENT</text>
+
+      <rect x="26" y="212" width="120" height="4" fill="#FF5B35">
+        <animate attributeName="width" values="46;120;74;120;46" dur="8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="554" y="220" text-anchor="end" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="1.2">READ THE BUILD NOTES &#8599;</text>
+    </g>
+  </g>
+  <rect x="3" y="3" width="574" height="244" rx="6" fill="none" stroke="#11110F" stroke-width="3"/>
+</svg>

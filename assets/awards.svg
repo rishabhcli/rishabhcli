@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="644" height="470" viewBox="0 0 644 470" role="img" aria-labelledby="at ad">
+  <title id="at">Selected awards</title>
+  <desc id="ad">1ST Alameda County Science and Engineering Fair: SmartCane. PAT U.S. provisional utility patent: Accepted. Assistive sensing. PUB COSITE 2025, Banda Aceh: Fall and obstacle detection. 1ST Stem4All: SmartCane again, new judges. 1ST Alameda Hacks + JacHacks: AnchorMesh, then SafeRelay. 1ST Cognee AI-Memory Hackathon: FairValue prediction market. WIN Best Use of Browserbase: QAgent. WIN Best Use of InsForge: MasterBuild, six agents. 2ND Best Use of Guild.ai: Muscle Memory, 4.5 hours. PVSA Volunteer Service Award, Silver: 2024.</desc>
+  <defs><clipPath id="ac"><rect x="3" y="3" width="638" height="464" rx="6"/></clipPath></defs>
+  <g clip-path="url(#ac)">
+    <rect width="644" height="470" fill="#FFFEFA"/>
+    <rect x="0" y="0" width="644" height="8" fill="#D8FF45"/>
+    <text x="30" y="52" fill="#11110F" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="-0.8">Awards, in the order I rank them</text>
+    <text x="30" y="72" fill="#5C5A55" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1.4">SCIENCE FAIR FIRST. THE HACKATHONS CAME LATER.</text>
+    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <g>
+      <rect x="30" y="81" width="46" height="22" rx="3" fill="#11110F" stroke="#11110F" stroke-width="0"/>
+      <text x="53" y="96" text-anchor="middle" fill="#D8FF45" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.6">1ST</text>
+      <text x="92" y="96" fill="#11110F" font-size="14.5" font-weight="800">Alameda County Science &amp; Engineering Fair</text>
+      <text x="614" y="96" text-anchor="end" fill="#5C5A55" font-size="12.5">SmartCane.</text>
+      <rect x="30" y="109" width="584" height="1" fill="#11110F" opacity="0.12"/>
+    </g>
+    <g>
+      <rect x="30" y="115" width="46" height="22" rx="3" fill="none" stroke="#11110F" stroke-width="1.6"/>
+      <text x="53" y="130" text-anchor="middle" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.6">PAT</text>
+      <text x="92" y="130" fill="#11110F" font-size="14.5" font-weight="650">U.S. provisional utility patent</text>
+      <text x="614" y="130" text-anchor="end" fill="#5C5A55" font-size="12.5">Accepted. Assistive sensing.</text>
+      <rect x="30" y="143" width="584" height="1" fill="#11110F" opacity="0.12"/>
+    </g>
+    <g>
+      <rect x="30" y="149" width="46" height="22" rx="3" fill="none" stroke="#11110F" stroke-width="1.6"/>
+      <text x="53" y="164" text-anchor="middle" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.6">PUB</text>
+      <text x="92" y="164" fill="#11110F" font-size="14.5" font-weight="650">COSITE 2025, Banda Aceh</text>
+      <text x="614" y="164" text-anchor="end" fill="#5C5A55" font-size="12.5">Fall and obstacle detection.</text>
+      <rect x="30" y="177" width="584" height="1" fill="#11110F" opacity="0.12"/>
+    </g>
+    <g>
+      <rect x="30" y="183" width="46" height="22" rx="3" fill="none" stroke="#11110F" stroke-width="1.6"/>
+      <text x="53" y="198" text-anchor="middle" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.6">1ST</text>
+      <text x="92" y="198" fill="#11110F" font-size="14.5" font-weight="650">Stem4All</text>
+      <text x="614" y="198" text-anchor="end" fill="#5C5A55" font-size="12.5">SmartCane again, new judges.</text>
+      <rect x="30" y="211" width="584" height="1" fill="#11110F" opacity="0.12"/>
+    </g>
+    <g>
+      <rect x="30" y="217" width="46" height="22" rx="3" fill="none" stroke="#11110F" stroke-width="1.6"/>
+      <text x="53" y="232" text-anchor="middle" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.6">1ST</text>
+      <text x="92" y="232" fill="#11110F" font-size="14.5" font-weight="650">Alameda Hacks + JacHacks</text>
+      <text x="614" y="232" text-anchor="end" fill="#5C5A55" font-size="12.5">AnchorMesh, then SafeRelay.</text>
+      <rect x="30" y="245" width="584" height="1" fill="#11110F" opacity="0.12"/>
+    </g>
+    <g>
+      <rect x="30" y="251" width="46" height="22" rx="3" fill="none" stroke="#11110F" stroke-width="1.6"/>
+      <text x="53" y="266" text-anchor="middle" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.6">1ST</text>
+      <text x="92" y="266" fill="#11110F" font-size="14.5" font-weight="650">Cognee AI-Memory Hackathon</text>
+      <text x="614" y="266" text-anchor="end" fill="#5C5A55" font-size="12.5">FairValue prediction market.</text>
+      <rect x="30" y="279" width="584" height="1" fill="#11110F" opacity="0.12"/>
+    </g>
+    <g>
+      <rect x="30" y="285" width="46" height="22" rx="3" fill="none" stroke="#11110F" stroke-width="1.6"/>
+      <text x="53" y="300" text-anchor="middle" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.6">WIN</text>
+      <text x="92" y="300" fill="#11110F" font-size="14.5" font-weight="650">Best Use of Browserbase</text>
+      <text x="614" y="300" text-anchor="end" fill="#5C5A55" font-size="12.5">QAgent.</text>
+      <rect x="30" y="313" width="584" height="1" fill="#11110F" opacity="0.12"/>
+    </g>
+    <g>
+      <rect x="30" y="319" width="46" height="22" rx="3" fill="none" stroke="#11110F" stroke-width="1.6"/>
+      <text x="53" y="334" text-anchor="middle" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.6">WIN</text>
+      <text x="92" y="334" fill="#11110F" font-size="14.5" font-weight="650">Best Use of InsForge</text>
+      <text x="614" y="334" text-anchor="end" fill="#5C5A55" font-size="12.5">MasterBuild, six agents.</text>
+      <rect x="30" y="347" width="584" height="1" fill="#11110F" opacity="0.12"/>
+    </g>
+    <g>
+      <rect x="30" y="353" width="46" height="22" rx="3" fill="none" stroke="#11110F" stroke-width="1.6"/>
+      <text x="53" y="368" text-anchor="middle" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.6">2ND</text>
+      <text x="92" y="368" fill="#11110F" font-size="14.5" font-weight="650">Best Use of Guild.ai</text>
+      <text x="614" y="368" text-anchor="end" fill="#5C5A55" font-size="12.5">Muscle Memory, 4.5 hours.</text>
+      <rect x="30" y="381" width="584" height="1" fill="#11110F" opacity="0.12"/>
+    </g>
+    <g>
+      <rect x="30" y="387" width="46" height="22" rx="3" fill="none" stroke="#11110F" stroke-width="1.6"/>
+      <text x="53" y="402" text-anchor="middle" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" letter-spacing="0.6">PVSA</text>
+      <text x="92" y="402" fill="#11110F" font-size="14.5" font-weight="650">Volunteer Service Award, Silver</text>
+      <text x="614" y="402" text-anchor="end" fill="#5C5A55" font-size="12.5">2024.</text>
+      <rect x="30" y="415" width="584" height="1" fill="#11110F" opacity="0.12"/>
+    </g>
+    </g>
+    <text x="30" y="440" fill="#5C5A55" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" letter-spacing="1">8 OUTRIGHT WINS ACROSS 25+ HACKATHONS &#183; SELECTED, NOT COMPLETE</text>
+    <rect x="30" y="450" width="120" height="3" fill="#D8FF45">
+      <animate attributeName="width" values="40;120;70;120;40" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="3" y="3" width="638" height="464" rx="6" fill="none" stroke="#11110F" stroke-width="3"/>
+</svg>

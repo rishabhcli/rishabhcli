@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="324" height="196" viewBox="0 0 324 196" role="img" aria-labelledby="lt ld">
+  <title id="lt">rishabhcli repository language mix</title>
+  <desc id="ld">Python 63.7 percent, TypeScript 13.1 percent, JavaScript 11.5 percent, Swift 6.1 percent, HTML 2.1 percent.</desc>
+  <defs><clipPath id="lc"><rect x="3" y="3" width="318" height="190" rx="6"/></clipPath></defs>
+  <g clip-path="url(#lc)">
+    <rect width="324" height="196" fill="#FFFEFA"/>
+    <rect x="0" y="0" width="324" height="7" fill="#11110F"/>
+    <text x="24" y="48" fill="#11110F" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="-0.4">What I reach for</text>
+    <text x="300" y="47" text-anchor="end" fill="#5C5A55" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5">2026-08-23</text>
+    <text x="24" y="85" fill="#11110F" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700">Python</text>
+    <rect x="112" y="76" width="108" height="11" rx="2" fill="#11110F" opacity="0.08"/>
+    <rect x="112" y="76" width="108" height="11" rx="2" fill="#D8FF45" stroke="#11110F" stroke-width="1.2"/>
+    <text x="296" y="85" text-anchor="end" fill="#5C5A55" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9">63.7%</text>
+    <text x="24" y="107" fill="#11110F" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700">TypeScript</text>
+    <rect x="112" y="98" width="108" height="11" rx="2" fill="#11110F" opacity="0.08"/>
+    <rect x="112" y="98" width="22" height="11" rx="2" fill="#2864F0" stroke="#11110F" stroke-width="1.2"/>
+    <text x="296" y="107" text-anchor="end" fill="#5C5A55" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9">13.1%</text>
+    <text x="24" y="129" fill="#11110F" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700">JavaScript</text>
+    <rect x="112" y="120" width="108" height="11" rx="2" fill="#11110F" opacity="0.08"/>
+    <rect x="112" y="120" width="20" height="11" rx="2" fill="#FF5B35" stroke="#11110F" stroke-width="1.2"/>
+    <text x="296" y="129" text-anchor="end" fill="#5C5A55" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9">11.5%</text>
+    <text x="24" y="151" fill="#11110F" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700">Swift</text>
+    <rect x="112" y="142" width="108" height="11" rx="2" fill="#11110F" opacity="0.08"/>
+    <rect x="112" y="142" width="10" height="11" rx="2" fill="#FFE65B" stroke="#11110F" stroke-width="1.2"/>
+    <text x="296" y="151" text-anchor="end" fill="#5C5A55" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9">6.1%</text>
+    <text x="24" y="173" fill="#11110F" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700">HTML</text>
+    <rect x="112" y="164" width="108" height="11" rx="2" fill="#11110F" opacity="0.08"/>
+    <rect x="112" y="164" width="6" height="11" rx="2" fill="#11110F" stroke="#11110F" stroke-width="1.2"/>
+    <text x="296" y="173" text-anchor="end" fill="#5C5A55" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9">2.1%</text>
+    <text x="24" y="184" fill="#5C5A55" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="8" letter-spacing="0.8">BY BYTES IN PUBLIC REPOS &#183; NOT A SKILL RANKING</text>
+  </g>
+  <rect x="3" y="3" width="318" height="190" rx="6" fill="none" stroke="#11110F" stroke-width="3"/>
+</svg>

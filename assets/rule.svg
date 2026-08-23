@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34" role="presentation">
+  <rect x="0" y="15" width="1200" height="3" fill="#11110F" opacity="0.85"/>
+  <g fill="#11110F" opacity="0.35">
+    <rect x="4" y="22" width="14" height="3"/>
+    <rect x="34" y="22" width="14" height="3"/>
+    <rect x="64" y="22" width="14" height="3"/>
+    <rect x="94" y="22" width="14" height="3"/>
+    <rect x="124" y="22" width="14" height="3"/>
+    <rect x="154" y="22" width="14" height="3"/>
+    <rect x="184" y="22" width="14" height="3"/>
+    <rect x="214" y="22" width="14" height="3"/>
+    <rect x="244" y="22" width="14" height="3"/>
+    <rect x="274" y="22" width="14" height="3"/>
+    <rect x="304" y="22" width="14" height="3"/>
+    <rect x="334" y="22" width="14" height="3"/>
+    <rect x="364" y="22" width="14" height="3"/>
+    <rect x="394" y="22" width="14" height="3"/>
+    <rect x="424" y="22" width="14" height="3"/>
+    <rect x="454" y="22" width="14" height="3"/>
+    <rect x="484" y="22" width="14" height="3"/>
+    <rect x="514" y="22" width="14" height="3"/>
+    <rect x="544" y="22" width="14" height="3"/>
+    <rect x="574" y="22" width="14" height="3"/>
+    <rect x="604" y="22" width="14" height="3"/>
+    <rect x="634" y="22" width="14" height="3"/>
+    <rect x="664" y="22" width="14" height="3"/>
+    <rect x="694" y="22" width="14" height="3"/>
+    <rect x="724" y="22" width="14" height="3"/>
+    <rect x="754" y="22" width="14" height="3"/>
+    <rect x="784" y="22" width="14" height="3"/>
+    <rect x="814" y="22" width="14" height="3"/>
+    <rect x="844" y="22" width="14" height="3"/>
+    <rect x="874" y="22" width="14" height="3"/>
+    <rect x="904" y="22" width="14" height="3"/>
+    <rect x="934" y="22" width="14" height="3"/>
+    <rect x="964" y="22" width="14" height="3"/>
+    <rect x="994" y="22" width="14" height="3"/>
+    <rect x="1024" y="22" width="14" height="3"/>
+    <rect x="1054" y="22" width="14" height="3"/>
+    <rect x="1084" y="22" width="14" height="3"/>
+    <rect x="1114" y="22" width="14" height="3"/>
+    <rect x="1144" y="22" width="14" height="3"/>
+    <rect x="1174" y="22" width="14" height="3"/>
+  </g>
+  <rect x="0" y="10" width="86" height="13" fill="#D8FF45">
+    <animate attributeName="x" values="-90;1200" dur="9s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="0" y="10" width="14" height="13" fill="#11110F">
+    <animate attributeName="x" values="-20;1204" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>

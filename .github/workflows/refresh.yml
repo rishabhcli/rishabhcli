@@ -1,0 +1,46 @@
+name: Refresh profile
+
+"on":
+  schedule:
+    - cron: "23 6 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build build-log and language cards
+        env:
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/build-cards.mjs
+
+      - name: Build contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake.svg?color_snake=%23D8FF45&color_dots=%23F4F2EC,%23DCD9CE,%23A8A69C,%235C5A55,%2311110F
+            assets/snake-dark.svg?color_snake=%23D8FF45&color_dots=%230D1117,%232B2B26,%235C5A55,%238A8A82,%23D8FF45
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit refreshed assets
+        run: |
+          if git diff --quiet -- assets; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/langs.svg assets/snake.svg assets/snake-dark.svg
+          git commit -m "chore: refresh profile assets"
+          git push

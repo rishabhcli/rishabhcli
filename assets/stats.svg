@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="196" viewBox="0 0 500 196" role="img" aria-labelledby="st sd">
+  <title id="st">rishabhcli public GitHub activity</title>
+  <desc id="sd">75 public repositories, 9 stars earned, 30 languages, 47 repositories pushed in the last 30 days.</desc>
+  <defs><clipPath id="sc"><rect x="3" y="3" width="494" height="190" rx="6"/></clipPath></defs>
+  <g clip-path="url(#sc)">
+    <rect width="500" height="196" fill="#FFFEFA"/>
+    <rect x="0" y="0" width="500" height="7" fill="#D8FF45"/>
+    <text x="28" y="48" fill="#11110F" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="-0.4">Public build log</text>
+    <text x="472" y="47" text-anchor="end" fill="#5C5A55" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" letter-spacing="0.8">REFRESHED 2026-08-23</text>
+    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <g transform="translate(28 74)">
+        <rect width="102" height="76" rx="5" fill="#C9F2F8" stroke="#11110F" stroke-width="2"/>
+        <text x="13" y="42" fill="#11110F" font-size="30" font-weight="800" letter-spacing="-1">75</text>
+        <text x="13" y="62" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" font-weight="700" letter-spacing="0.9" opacity="0.7">PUBLIC REPOS</text>
+      </g>
+      <g transform="translate(140 74)">
+        <rect width="102" height="76" rx="5" fill="#FFF4B8" stroke="#11110F" stroke-width="2"/>
+        <text x="13" y="42" fill="#11110F" font-size="30" font-weight="800" letter-spacing="-1">9</text>
+        <text x="13" y="62" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" font-weight="700" letter-spacing="0.9" opacity="0.7">STARS EARNED</text>
+      </g>
+      <g transform="translate(252 74)">
+        <rect width="102" height="76" rx="5" fill="#DDF9D5" stroke="#11110F" stroke-width="2"/>
+        <text x="13" y="42" fill="#11110F" font-size="30" font-weight="800" letter-spacing="-1">30</text>
+        <text x="13" y="62" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" font-weight="700" letter-spacing="0.9" opacity="0.7">LANGUAGES</text>
+      </g>
+      <g transform="translate(364 74)">
+        <rect width="102" height="76" rx="5" fill="#FFDDD2" stroke="#11110F" stroke-width="2"/>
+        <text x="13" y="42" fill="#11110F" font-size="30" font-weight="800" letter-spacing="-1">47</text>
+        <text x="13" y="62" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" font-weight="700" letter-spacing="0.9" opacity="0.7">PUSHED / 30D</text>
+      </g>
+    </g>
+    <rect x="28" y="168" width="444" height="1" fill="#11110F" opacity="0.15"/>
+    <text x="28" y="184" fill="#5C5A55" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" letter-spacing="0.9">OWNED, NON-FORK, NON-ARCHIVED &#183; ON GITHUB SINCE 2023</text>
+  </g>
+  <rect x="3" y="3" width="494" height="190" rx="6" fill="none" stroke="#11110F" stroke-width="3"/>
+</svg>
