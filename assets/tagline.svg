@@ -2,6 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="64" viewBox="0 0 880 64" role="img" aria-labelledby="tt td">
   <title id="tt">How Rishabh works</title>
   <desc id="td">I prefer to ship things rather than describe them. When I write, it is usually a README. I care about the part after the demo.</desc>
+  <rect x="2" y="2" width="876" height="60" rx="30" fill="#F4F2EC" stroke="#11110F" stroke-width="2.5"/>
   <g text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="650">
     <text x="440" y="40" fill="#11110F" opacity="0">I prefer to ship things rather than describe them.
       <animate id="l0" attributeName="opacity" values="0;1;1;0" keyTimes="0;0.13;0.8;1" dur="4.2s" begin="0s;l2.end"/>

@@ -55,7 +55,7 @@ First year at UIUC, Information Sciences + Data Science with a CS minor. Before 
 <p align="center">
   <a href="https://rishabhb.dev"><strong>Build notes, architecture and what is still unfinished &#8594;</strong></a>
   &nbsp;&#183;&nbsp;
-  <a href="https://github.com/rishabhcli?tab=repositories"><strong>All 75 public repos &#8594;</strong></a>
+  <a href="https://github.com/rishabhcli?tab=repositories"><strong>Every public repo &#8594;</strong></a>
 </p>
 
 <details>

@@ -158,6 +158,7 @@ const tagline = `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="64" viewBox="0 0 880 64" role="img" aria-labelledby="tt td">
   <title id="tt">How Rishabh works</title>
   <desc id="td">${lines.map((l) => esc(l[0])).join(" ")}</desc>
+  <rect x="2" y="2" width="876" height="60" rx="30" fill="${PAPER}" stroke="${INK}" stroke-width="2.5"/>
   <g text-anchor="middle" font-family="${SANS}" font-size="19" font-weight="650">
 ${lines
   .map(
@@ -175,6 +176,9 @@ ${lines
 
 const rule = `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34" role="presentation">
+  <defs><clipPath id="rc"><rect x="0" y="0" width="1200" height="34" rx="5"/></clipPath></defs>
+  <g clip-path="url(#rc)">
+  <rect x="0" y="0" width="1200" height="34" fill="${PAPER}"/>
   <rect x="0" y="15" width="1200" height="3" fill="${INK}" opacity="0.85"/>
   <g fill="${INK}" opacity="0.35">
 ${Array.from({ length: 40 }, (_, i) => `    <rect x="${i * 30 + 4}" y="22" width="14" height="3"/>`).join("\n")}
@@ -185,6 +189,7 @@ ${Array.from({ length: 40 }, (_, i) => `    <rect x="${i * 30 + 4}" y="22" width
   <rect x="0" y="10" width="14" height="13" fill="${INK}">
     <animate attributeName="x" values="-20;1204" dur="9s" repeatCount="indefinite"/>
   </rect>
+  </g>
 </svg>
 `;
 
