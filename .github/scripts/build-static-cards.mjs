@@ -40,7 +40,7 @@ const projects = [
     name: "ZooVision",
     chip: "3RD PLACE / AWS BUILDER LOFT",
     lead: "Overnight animal-welfare monitoring for keepers.",
-    sub: "Deterministic Python rules own every alert level. Models describe, they never vote on severity.",
+    sub: "Deterministic Python rules own every alert level. Models describe a scene; they never vote on severity.",
     stack: "TWELVELABS / PYTHON / SQLITE / NEO4J / LIVE AT ZOOVISION.TECH",
     cta: "OPEN REPOSITORY",
   },
@@ -51,8 +51,8 @@ const projects = [
     accent: "#2864F0",
     name: "QAgent",
     chip: "WINNER / BEST USE OF BROWSERBASE",
-    lead: "Reproduce a web bug, patch it, re-run the browser, keep the receipts.",
-    sub: "One local-first engine behind an Electron app, a CLI and an MCP server. Dirty checkouts block publish.",
+    lead: "Reproduces a web failure, repairs it in isolation, then verifies the fix.",
+    sub: "A single local-first engine behind an Electron app, a CLI and an MCP server. Dirty checkouts block publication.",
     stack: "TYPESCRIPT / ELECTRON / CHROMIUM / SQLITE / AGPL-3.0",
     cta: "OPEN REPOSITORY",
   },
@@ -63,8 +63,8 @@ const projects = [
     accent: "#FF5B35",
     name: "SmartCane",
     chip: "1ST PLACE / ALAMEDA COUNTY SCIENCE FAIR",
-    lead: "A ~$70 cane that senses obstacles, catches falls and pages a caregiver.",
-    sub: "97.75% distance accuracy in bench trials. 27 of 27 simulated falls detected, zero false positives in 18.",
+    lead: "A ~$70 assistive cane with obstacle sensing, fall detection and caregiver alerts.",
+    sub: "97.75% obstacle-distance accuracy in bench trials. 27 of 27 simulated falls detected, no false positives in 18.",
     stack: "ARDUINO / ANDROID / BLE / COSITE 2025 PAPER / PROVISIONAL PATENT",
     cta: "READ THE BUILD NOTES",
   },
@@ -75,8 +75,8 @@ const projects = [
     accent: "#11110F",
     name: "SafeRelay",
     chip: "1ST PLACE / ALAMEDA HACKS",
-    lead: "Carry an SOS packet through nearby phones when the towers are gone.",
-    sub: "BLE store-and-forward with hop limits, expiry and idempotent upload the moment any relay gets online.",
+    lead: "Relays an SOS packet through nearby phones when cell service is unavailable.",
+    sub: "BLE store-and-forward with hop limits, expiry and idempotent upload once any relay regains connectivity.",
     stack: "JAC / SWIFT / CAPACITOR / CORE BLUETOOTH",
     cta: "OPEN REPOSITORY",
   },
@@ -87,8 +87,8 @@ const projects = [
     accent: "#FF5B35",
     name: "Muscle Memory",
     chip: "2ND PLACE / BEST USE OF GUILD.AI",
-    lead: "One robot body, many homes, and a gate that keeps failed policies visible.",
-    sub: "Promotion needs 80% success across 20 unseen apartments and zero falls. Nothing is promoted yet.",
+    lead: "A fixed robot body, evolving worlds, and a promotion gate on unseen homes.",
+    sub: "Promotion requires 80% success across 20 held-out apartments and zero falls. No policy has qualified yet.",
     stack: "MUJOCO / FALKORDB / PYTHON / BUILT IN 4.5 HOURS",
     cta: "OPEN REPOSITORY",
   },
@@ -98,9 +98,9 @@ const projects = [
     tint: "#EEFFC0",
     accent: "#2864F0",
     name: "Kinora",
-    chip: "BOOKS THAT FILM THEMSELVES",
-    lead: "Turn a chapter into accepted film shots without losing the book.",
-    sub: "Shot gates measure a render before it is allowed in. A failed clip never quietly becomes a placeholder.",
+    chip: "DEPLOYED / ALIBABA CLOUD",
+    lead: "Turns a chapter into accepted film shots while preserving continuity.",
+    sub: "Shot gates measure each render before acceptance. A failed clip never silently becomes a placeholder.",
     stack: "QWEN / WAN / PYTHON / ALIBABA CLOUD",
     cta: "OPEN REPOSITORY",
   },
@@ -149,9 +149,9 @@ function card(p) {
 /* ---------------------------------------------------------------- tagline */
 
 const lines = [
-  ["I prefer to ship things rather than describe them.", INK],
-  ["When I write, it is usually a README.", "#2864F0"],
-  ["I care about the part after the demo.", "#FF5B35"],
+  ["I build agent systems that verify their own work.", INK],
+  ["I design local-first tools that keep working offline.", "#2864F0"],
+  ["I build assistive hardware measured against real constraints.", "#FF5B35"],
 ];
 
 const tagline = `<?xml version="1.0" encoding="UTF-8"?>
@@ -229,8 +229,8 @@ const awardsSvg = `<?xml version="1.0" encoding="UTF-8"?>
   <g clip-path="url(#ac)">
     <rect width="644" height="470" fill="${CARD}"/>
     <rect x="0" y="0" width="644" height="8" fill="${LIME}"/>
-    <text x="30" y="52" fill="${INK}" font-family="${SANS}" font-size="26" font-weight="800" letter-spacing="-0.8">Awards, in the order I rank them</text>
-    <text x="30" y="72" fill="${MUTED}" font-family="${MONO}" font-size="10" letter-spacing="1.4">SCIENCE FAIR FIRST. THE HACKATHONS CAME LATER.</text>
+    <text x="30" y="52" fill="${INK}" font-family="${SANS}" font-size="26" font-weight="800" letter-spacing="-0.8">Selected awards and honors</text>
+    <text x="30" y="72" fill="${MUTED}" font-family="${MONO}" font-size="10" letter-spacing="1.4">ORDERED BY SIGNIFICANCE, NOT BY RECENCY.</text>
     <g font-family="${SANS}">
 ${awardRows}
     </g>
@@ -255,7 +255,7 @@ const footer = `<?xml version="1.0" encoding="UTF-8"?>
     <g opacity="0.16" fill="${LIME}">
 ${Array.from({ length: 24 }, (_, i) => `      <rect x="${i * 52 + 10}" y="0" width="2" height="176"/>`).join("\n")}
     </g>
-    <text x="600" y="72" text-anchor="middle" fill="${PAPER}" font-family="${SANS}" font-size="30" font-weight="800" letter-spacing="-0.6">Ship it, then prove it.</text>
+    <text x="600" y="72" text-anchor="middle" fill="${PAPER}" font-family="${SANS}" font-size="30" font-weight="800" letter-spacing="-0.6">Evidence before claims.</text>
     <text x="600" y="104" text-anchor="middle" fill="#8A8A82" font-family="${MONO}" font-size="11" letter-spacing="2.2">RISHABHB.DEV &#183; GITHUB.COM/RISHABHCLI &#183; LINKEDIN.COM/IN/RB-RISHABH</text>
     <g font-family="${MONO}" font-size="14">
       <text x="600" y="142" text-anchor="middle" fill="${LIME}">$ <tspan fill="${PAPER}">git push origin main</tspan></text>

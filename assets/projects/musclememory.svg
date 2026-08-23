@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250" role="img" aria-labelledby="ti de">
   <title id="ti">Muscle Memory &#8212; 2ND PLACE / BEST USE OF GUILD.AI</title>
-  <desc id="de">One robot body, many homes, and a gate that keeps failed policies visible. Promotion needs 80% success across 20 unseen apartments and zero falls. Nothing is promoted yet. Built with MUJOCO, FALKORDB, PYTHON, BUILT IN 4.5 HOURS.</desc>
+  <desc id="de">A fixed robot body, evolving worlds, and a promotion gate on unseen homes. Promotion requires 80% success across 20 held-out apartments and zero falls. No policy has qualified yet. Built with MUJOCO, FALKORDB, PYTHON, BUILT IN 4.5 HOURS.</desc>
   <defs><clipPath id="c"><rect x="3" y="3" width="574" height="244" rx="6"/></clipPath></defs>
   <g clip-path="url(#c)">
     <rect width="580" height="250" fill="#FFFEFA"/>
@@ -20,9 +20,9 @@
 
       <text x="26" y="98" fill="#11110F" font-size="34" font-weight="800" letter-spacing="-1.1">Muscle Memory</text>
 
-      <text x="26" y="130" fill="#11110F" font-size="14" font-weight="600">One robot body, many homes, and a gate that keeps failed policies visible.</text>
-      <text x="26" y="153" fill="#5C5A55" font-size="12.5">Promotion needs 80% success across 20 unseen apartments and zero</text>
-      <text x="26" y="171" fill="#5C5A55" font-size="12.5">falls. Nothing is promoted yet.</text>
+      <text x="26" y="130" fill="#11110F" font-size="14" font-weight="600">A fixed robot body, evolving worlds, and a promotion gate on unseen homes.</text>
+      <text x="26" y="153" fill="#5C5A55" font-size="12.5">Promotion requires 80% success across 20 held-out apartments and</text>
+      <text x="26" y="171" fill="#5C5A55" font-size="12.5">zero falls. No policy has qualified yet.</text>
 
       <text x="26" y="200" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="1.05" opacity="0.72">MUJOCO / FALKORDB / PYTHON / BUILT IN 4.5 HOURS</text>
 

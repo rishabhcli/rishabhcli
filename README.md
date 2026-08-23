@@ -6,11 +6,11 @@
 -->
 
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Rishabh Bansal, builder, @rishabhcli. Fremont CA to Urbana IL. Agent systems, local-first tools, assistive hardware." />
+  <img src="./assets/hero.svg?v=3" width="100%" alt="Rishabh Bansal, @rishabhcli. Fremont CA to Urbana IL. Agent systems, local-first developer tools, assistive hardware." />
 </div>
 
 <div align="center">
-  <img src="./assets/tagline.svg?v=2" width="820" alt="I prefer to ship things rather than describe them. When I write, it is usually a README. I care about the part after the demo." />
+  <img src="./assets/tagline.svg?v=3" width="820" alt="I build agent systems that verify their own work. I design local-first tools that keep working offline. I build assistive hardware measured against real constraints." />
 </div>
 
 <div align="center">
@@ -27,29 +27,28 @@
 
 ## `$ whoami`
 
-I build things nobody asked me to build. That is where almost everything I know about software came from.
+I am a software and hardware builder studying **Information Sciences + Data Science** with a minor in Computer Science at the **University of Illinois Urbana-Champaign**. I work across **agent systems**, **local-first developer tools**, **applied computer vision**, and **assistive hardware**. I am drawn to problems where software has to survive contact with something physical or human, and where a claim is only worth the evidence attached to it.
 
-My projects keep landing in the same place: software running into something physical or human. Radios go to sleep. Model output is uncertain. Robots fall over. Users do not owe an interface patience.
-
-So I keep coming back to local-first state, deterministic policy, receipts, visible failure, and workflows a real operator would actually use. I move fast at hackathons. I do not think speed is an excuse to hide what is simulated, unverified, or still broken.
-
-First year at UIUC, Information Sciences + Data Science with a CS minor. Before that, ten months on a cane.
+- **Agent systems:** Reproduce, repair and verify loops, MCP servers, browser automation, and explicit publication gates so a model never ships an unreviewed change.
+- **Local-first tools:** Durable state in SQLite, isolated Git worktrees, and clients that keep functioning when the network does not.
+- **Applied vision and sensing:** Strict provider schemas, timestamp normalization, deterministic triage rules, and visible data gaps in place of silent failure.
+- **Assistive hardware:** Low-cost embedded sensing, measured accuracy, and designs evaluated against real constraints rather than demo conditions.
 
 ## `$ ls ~/ships`
 
 <p align="center">
-  <a href="https://github.com/rishabhcli/ZooVision"><img width="49%" src="./assets/projects/zoovision.svg" alt="ZooVision: overnight animal-welfare monitoring. 3rd place, AWS Builder Loft." /></a>
-  <a href="https://github.com/rishabhcli/QAgent"><img width="49%" src="./assets/projects/qagent.svg" alt="QAgent: local-first self-healing QA for web apps. Winner, Best Use of Browserbase." /></a>
+  <a href="https://github.com/rishabhcli/ZooVision"><img width="49%" src="./assets/projects/zoovision.svg?v=3" alt="ZooVision: overnight animal-welfare monitoring. 3rd place, AWS Builder Loft." /></a>
+  <a href="https://github.com/rishabhcli/QAgent"><img width="49%" src="./assets/projects/qagent.svg?v=3" alt="QAgent: local-first self-healing QA for web apps. Winner, Best Use of Browserbase." /></a>
 </p>
 
 <p align="center">
-  <a href="https://rishabhb.dev"><img width="49%" src="./assets/projects/smartcane.svg" alt="SmartCane: a 70 dollar assistive cane with obstacle sensing and fall detection. 1st place, Alameda County Science and Engineering Fair." /></a>
-  <a href="https://github.com/rishabhcli/SafeRelay"><img width="49%" src="./assets/projects/saferelay.svg" alt="SafeRelay: offline-first BLE mesh for SOS packets. 1st place, Alameda Hacks." /></a>
+  <a href="https://rishabhb.dev"><img width="49%" src="./assets/projects/smartcane.svg?v=3" alt="SmartCane: a 70 dollar assistive cane with obstacle sensing and fall detection. 1st place, Alameda County Science and Engineering Fair." /></a>
+  <a href="https://github.com/rishabhcli/SafeRelay"><img width="49%" src="./assets/projects/saferelay.svg?v=3" alt="SafeRelay: offline-first BLE mesh for SOS packets. 1st place, Alameda Hacks." /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Developer668/MuscleMemory"><img width="49%" src="./assets/projects/musclememory.svg" alt="Muscle Memory: robot policy promotion gated on unseen worlds. 2nd place, Best Use of Guild.ai." /></a>
-  <a href="https://github.com/rishabhcli/kinora"><img width="49%" src="./assets/projects/kinora.svg" alt="Kinora: turns a chapter into accepted film shots with Qwen and Wan on Alibaba Cloud." /></a>
+  <a href="https://github.com/Developer668/MuscleMemory"><img width="49%" src="./assets/projects/musclememory.svg?v=3" alt="Muscle Memory: robot policy promotion gated on unseen worlds. 2nd place, Best Use of Guild.ai." /></a>
+  <a href="https://github.com/rishabhcli/kinora"><img width="49%" src="./assets/projects/kinora.svg?v=3" alt="Kinora: turns a chapter into accepted film shots with Qwen and Wan on Alibaba Cloud." /></a>
 </p>
 
 <p align="center">
@@ -59,26 +58,26 @@ First year at UIUC, Information Sciences + Data Science with a CS minor. Before 
 </p>
 
 <details>
-  <summary><strong>Things that did not work, kept on purpose</strong></summary>
+  <summary><strong>Evidence boundaries</strong></summary>
 
   <br />
 
-  A win screenshot is easy. These are the parts I would want to read about if it were somebody else's repo.
+  Each project states what it has actually demonstrated and what remains unproven. These are the current limits.
 
-  - **Muscle Memory.** The stronger policy improved development success from 25% to 66.7% and still failed the gate on two falls. Nothing is promoted. The gate numbers on that card are requirements, not results.
-  - **SafeRelay.** End-to-end multi-hop delivery is unproven. A browser demo and a protocol test do not prove radio delivery, and it stays gated until there is captured three-phone field evidence.
-  - **ZooVision.** Overlay tooltips still surface raw detector labels that can contradict the triage output. Known, unfixed, on the list.
-  - **SmartCane.** Preliminary bench and simulated trials. Not a clinical study, and never evaluated with the elderly users it was designed for.
+  - **Muscle Memory.** The strongest candidate policy improved development success from 25% to 66.7% and still failed the promotion gate on two falls. No policy is promoted. The figures on that card are requirements, not results.
+  - **SafeRelay.** End-to-end multi-hop delivery is unproven. A browser demo and a protocol test do not establish radio delivery, and the claim stays gated until captured three-phone field evidence exists.
+  - **ZooVision.** Overlay tooltips can still surface raw detector labels that contradict the triage output. Known and unresolved.
+  - **SmartCane.** Preliminary bench and simulated trials only. Not a clinical study, and not yet evaluated with the elderly users it was designed for.
 
 </details>
 
 ## `$ cat awards.txt`
 
 <div align="center">
-  <img src="./assets/awards.svg" width="70%" alt="Awards: 1st place Alameda County Science and Engineering Fair for SmartCane; US provisional utility patent; COSITE 2025 paper; 1st place Stem4All; 1st place Alameda Hacks and JacHacks for AnchorMesh and SafeRelay; 1st place Cognee AI-Memory Hackathon for FairValue; Best Use of Browserbase for QAgent; Best Use of InsForge for MasterBuild; 2nd place Best Use of Guild.ai for Muscle Memory; President's Volunteer Service Award Silver 2024." />
+  <img src="./assets/awards.svg?v=3" width="70%" alt="Awards: 1st place Alameda County Science and Engineering Fair for SmartCane; US provisional utility patent; COSITE 2025 paper; 1st place Stem4All; 1st place Alameda Hacks and JacHacks for AnchorMesh and SafeRelay; 1st place Cognee AI-Memory Hackathon for FairValue; Best Use of Browserbase for QAgent; Best Use of InsForge for MasterBuild; 2nd place Best Use of Guild.ai for Muscle Memory; President's Volunteer Service Award Silver 2024." />
 </div>
 
-<p align="center"><sub>The science fair is first on purpose. It took ten months. The hackathons took weekends.</sub></p>
+<p align="center"><sub>Ordered by significance rather than recency. The science fair entry was a ten-month build; the hackathon awards were weekend work.</sub></p>
 
 ## `$ cat stack.txt`
 
@@ -115,12 +114,12 @@ First year at UIUC, Information Sciences + Data Science with a CS minor. Before 
 ## `$ cat principles.md`
 
 ```text
-01  a demo is not evidence. say which one you have.
-02  deterministic rules own anything that can hurt someone. models describe.
-03  local-first by default. the network is a nice-to-have.
-04  failure should be loud. never a silent placeholder.
-05  leave receipts. runs, screenshots, checksums, timestamps.
-06  finish the boring part. that is most of the job.
+01  Separate what is demonstrated from what is verified, and label both.
+02  Deterministic rules own any decision with safety consequences. Models describe.
+03  Local-first by default. Treat the network as an enhancement.
+04  Failure states are designed, not discovered. No silent placeholders.
+05  Leave evidence behind: runs, artifacts, checksums, timestamps.
+06  Finish the unglamorous part. It is most of the work.
 ```
 
 <div align="center">
@@ -128,5 +127,5 @@ First year at UIUC, Information Sciences + Data Science with a CS minor. Before 
 </div>
 
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Ship it, then prove it. rishabhb.dev, github.com/rishabhcli, linkedin.com/in/rb-rishabh" />
+  <img src="./assets/footer.svg?v=3" width="100%" alt="Evidence before claims. rishabhb.dev, github.com/rishabhcli, linkedin.com/in/rb-rishabh" />
 </div>

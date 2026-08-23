@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250" role="img" aria-labelledby="ti de">
   <title id="ti">QAgent &#8212; WINNER / BEST USE OF BROWSERBASE</title>
-  <desc id="de">Reproduce a web bug, patch it, re-run the browser, keep the receipts. One local-first engine behind an Electron app, a CLI and an MCP server. Dirty checkouts block publish. Built with TYPESCRIPT, ELECTRON, CHROMIUM, SQLITE, AGPL-3.0.</desc>
+  <desc id="de">Reproduces a web failure, repairs it in isolation, then verifies the fix. A single local-first engine behind an Electron app, a CLI and an MCP server. Dirty checkouts block publication. Built with TYPESCRIPT, ELECTRON, CHROMIUM, SQLITE, AGPL-3.0.</desc>
   <defs><clipPath id="c"><rect x="3" y="3" width="574" height="244" rx="6"/></clipPath></defs>
   <g clip-path="url(#c)">
     <rect width="580" height="250" fill="#FFFEFA"/>
@@ -20,9 +20,9 @@
 
       <text x="26" y="98" fill="#11110F" font-size="34" font-weight="800" letter-spacing="-1.1">QAgent</text>
 
-      <text x="26" y="130" fill="#11110F" font-size="14" font-weight="600">Reproduce a web bug, patch it, re-run the browser, keep the receipts.</text>
-      <text x="26" y="153" fill="#5C5A55" font-size="12.5">One local-first engine behind an Electron app, a CLI and an MCP</text>
-      <text x="26" y="171" fill="#5C5A55" font-size="12.5">server. Dirty checkouts block publish.</text>
+      <text x="26" y="130" fill="#11110F" font-size="14" font-weight="600">Reproduces a web failure, repairs it in isolation, then verifies the fix.</text>
+      <text x="26" y="153" fill="#5C5A55" font-size="12.5">A single local-first engine behind an Electron app, a CLI and an</text>
+      <text x="26" y="171" fill="#5C5A55" font-size="12.5">MCP server. Dirty checkouts block publication.</text>
 
       <text x="26" y="200" fill="#11110F" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="1.05" opacity="0.72">TYPESCRIPT / ELECTRON / CHROMIUM / SQLITE / AGPL-3.0</text>
 
