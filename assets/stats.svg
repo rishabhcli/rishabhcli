@@ -7,7 +7,7 @@
     <rect width="500" height="196" fill="#FFFEFA"/>
     <rect x="0" y="0" width="500" height="7" fill="#D8FF45"/>
     <text x="28" y="48" fill="#11110F" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="-0.4">Public build log</text>
-    <text x="472" y="47" text-anchor="end" fill="#5C5A55" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" letter-spacing="0.8">REFRESHED 2026-08-31</text>
+    <text x="472" y="47" text-anchor="end" fill="#5C5A55" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="8.5" letter-spacing="0.8">REFRESHED 2026-09-01</text>
     <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
       <g transform="translate(28 74)">
         <rect width="102" height="76" rx="5" fill="#C9F2F8" stroke="#11110F" stroke-width="2"/>
